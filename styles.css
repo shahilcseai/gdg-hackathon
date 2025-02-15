@@ -1,0 +1,18 @@
+.stApp {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.upload-box {
+    border: 2px dashed #4CAF50;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+}
+
+.metrics-container {
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 5px;
+    margin: 10px 0;
+}
